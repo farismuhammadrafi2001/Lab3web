@@ -1,0 +1,31 @@
+body {
+	background: url(gambar1.jpg);
+	color: #fff;
+}
+
+
+.container {
+	width:100%;
+	margin: auto;
+	background-color: #2d7d6387;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	font-family: arial;
+	font-weight: bold;
+	padding-top: 50px;
+}
+table {
+	margin: auto;
+}
+.input {
+	border-radius: 7px;
+}
+.submit {
+	padding: 5px 20px;
+	font-family: arial;
+	font-weight: bold;
+	border-radius: 5px;
+}
